@@ -1,1 +1,1 @@
-alert(1);
+var __x = setTimeout(function(){ typeof EventRsvp !== 'undefined' && console.log(EventRsvp); }, 100)
